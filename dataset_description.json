@@ -1,0 +1,36 @@
+{
+    "Name": "SpikeCanvas: An IoT-Based Control Plane for Event-Driven Workflow Orchestration of  High-Density Neurophysiology Data",
+    "BIDSVersion": "1.10",
+    "HEDVersion": "8.3.0",
+    "Description": "HD-MEA recordings for in vitro neural recordings from mouse cortical organoids . ",
+    "DatasetType": "raw",
+    "Authors": [
+        "Voitiuk, Kateryna",
+        "Parks, David F. ",
+        "Robbins, Ash",
+        "Spaeth, Alex",
+        "Sevetson, Jessica L.",
+        "Hernandez, Sebastian",
+        "Schweiger, Hunter E.",
+        "Andrews, John P.",
+        "Seiler, Spencer T.",
+        "Elliott, Matthew A.T.",
+        "Chang, Edward F.",
+        "Nowakowski, Tomasz J.",
+        "Currie, Rob",
+        "Mostajo-Radji, Mohammed A. ",
+        "Haussler, David",
+        "Sharf, Tal",
+        "Salama, Sofie R.",
+        "Teodorescu, Mircea"
+    ],
+    "License": "CC-BY-4.0",
+    "GeneratedBy": [
+        {
+            "Name": "nwb2bids",
+            "Version": "0.11.2.dev15+g782176cb1",
+            "Description": "Tool to reorganize NWB files into a BIDS directory layout.",
+            "CodeURL": "https://github.com/con/nwb2bids"
+        }
+    ]
+}
